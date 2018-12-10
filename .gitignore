@@ -25,3 +25,5 @@
 /.nb-gradle/
 
 notes.txt
+
+application-dev.properties
